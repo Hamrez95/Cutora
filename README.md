@@ -52,6 +52,7 @@ Electron + React + TypeScript، هسته Node.js، SQLite، FFmpeg/FFprobe. پر
 | [وضعیت اجرا](docs/implementation/STATUS.md) | تحویل بین نشست‌ها؛ اکنون همه قابلیت‌ها شروع‌نشده‌اند |
 | [گزارش‌های بررسی](docs/planning/README.md) | نقد محصول، معماری، MVP، هزینه، ریسک، AI، نشر و منابع |
 | [مأموریت اولیه](docs/reference/ORIGINAL_BRIEF.md) | سابقه نیازمندی؛ محدودیت توقف قدیمی در تصمیمات جدید تعیین تکلیف شده |
+| [نسخه آفلاین شش صفحه Notion](docs/reference/notion/README.md) | محتوای کامل صفحات مرجع برای مطالعه بدون وابستگی به login یا این چت |
 
 ## فایل‌هایی که عمداً در ریپو نیستند
 
