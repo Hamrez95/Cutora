@@ -1,0 +1,17 @@
+[
+  {
+    "file": "01-safe-import-v1.png",
+    "bytes": 1490568,
+    "sha256": "1655b133f7caab36d8b064c67c4f3a1a41e52a1b89cbc8d8021bd30d837cc8ef"
+  },
+  {
+    "file": "02-media-library-v1.png",
+    "bytes": 1718459,
+    "sha256": "50e9cec3e708f0a8802a66b4d4da20d879fbc00b594d5a26657758da42bc76b7"
+  },
+  {
+    "file": "03-resolve-assistant-v1.png",
+    "bytes": 1700690,
+    "sha256": "44d7075996adb8da2dabb261ef508a95deeb13876873995647d50acd6bc5a195"
+  }
+]
